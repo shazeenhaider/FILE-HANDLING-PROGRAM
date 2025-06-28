@@ -1,10 +1,16 @@
 # FILE-HANDLING-PROGRAM
 COMPANY : CODETECH -IT- SOLUTIONS
-NAME : SHAZEEN HAIDER 
+
+NAME : SHAZEEN HAIDER
+
 INTERN ID : CT04DM1048
+
 DOMAIN:C PROGRAMMING 
+
 DURATION:4 WEEKS
-MENTOR: NEELA SANTOSH 
+
+MENTOR: NEELA SANTOSH
+
 IN this file handling task we are make aware of the file handling in the c programmin which  help us in operating files.
 file handling deals with the creation of text file for writing , reading and appending .
 it has three modes read, write, append from which we have to chose one to work on one of them.
