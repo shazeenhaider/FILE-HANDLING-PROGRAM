@@ -13,3 +13,5 @@ In file handling program for writing code we have used vs code for writing the p
 clearing the bugs in the codes .
 Along with the mostly with each important line i have added comment for better understanding of the program.
 
+***************output*************
+![Image](https://github.com/user-attachments/assets/27eef239-c607-4466-99f0-da75d0472b81)
